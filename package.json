@@ -1,0 +1,17 @@
+{
+  "name": "benchmarks",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.198",
+    "bun-types": "latest",
+    "prettier": "^3.0.3"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "scripts": {
+    "format": "prettier -w *.ts"
+  }
+}
