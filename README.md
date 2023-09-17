@@ -3,7 +3,7 @@
 This repo includes a performance analysis comparing Commonbase API to OpenAI's API. It includes:
 
 * a script to generate live benchmarks comparing Commonbase performance to OpenAI
-* benchmarks ran by us on Sep 15, 2023
+* benchmarks ran by us on Sep 14, 2023
 * a python notebook showing the analysis of the recorded benchbmarks.
 
 ## Install dependencies:
